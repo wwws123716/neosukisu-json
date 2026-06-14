@@ -1,5 +1,13 @@
 {
   "title": "NeoSukiSU 版本日志",
+  {
+  "versionName": "1.0.4beta",
+  "date": "发布日期",
+  "changelog": [
+    "修复部分已知Bug",
+    "删除备用图标功能",
+  ]
+},
   "versions": [
     {
       "versionName": "1.4beta",
