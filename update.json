@@ -1,11 +1,11 @@
 {
   "versionName": "1.3.2beta",
-  "versionCode": 1100,
-  "downloadUrl": "https://user-app-free-download-cdn.123295.com/123-1023/2b7e0e3d/1816480732-0/2b7e0e3da643ac0c1c3a90b538377fff/c-m8009?v=5&t=1781983071&r=OPBX3Z&bzc=1&bzs=313831363438303733323a343a313a38303138393231&ur=vvbguagveegavl&urn=0&s=17819830717dca03b4d95477af594a87603b023c3c&bzp=0&bi=3987001148&filename=KerneISU_v1.3.apk&x-mf-biz-cid=3d4d2d9a-b25d-4ce1-8d9e-04cef27d2df9-3dab77&ndcp=1&cache_type=1",
+  "versionCode": 1099,
+  "downloadUrl": "https://1816480732.share.123pan.cn/123pan/JD7qVv-U6yiv",
   "forceUpdate": false,
   "changelog": [
-    "修复模块 Web UI 打开失败",
-    "优化超级用户页面显示",
-    "新增远程公告和版本更新"
+    "测试更新",
+    "测试更新",
+    "测试更新"
   ]
 }
