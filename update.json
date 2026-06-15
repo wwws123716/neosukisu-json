@@ -1,7 +1,7 @@
 {
-  "versionName": "1.4beta",
-  "versionCode": 1010,
-  "downloadUrl": "https://user-app-free-download-cdn.123295.com/123-109/25c0c27a/1816480732-0/25c0c27a9ed717a7e513aae40aceb46d/c-m8009?v=5&t=1782062851&r=TGG95L&bzc=1&bzs=313831363438303733323a343a313a38393035343033&ur=vvbguagveegavl&urn=0&s=17820628519bb989a739ada98d4ff7a6dbc84af168&bzp=0&bi=3987001148&filename=NeoSukiSU_v1.0.4beta.apk&x-mf-biz-cid=3d822d9c-aea6-4c99-8357-f63ca052c3e6-5baabb&ndcp=1&cache_type=1",
+  "versionName": "1.5",
+  "versionCode": 1001,
+  "downloadUrl": "https://user-app-free-download-cdn.123295.com/123-53/0d3eb43a/1816480732-0/0d3eb43a86fc4ee3bd10170116767c35/c-m8009?v=5&t=1782131264&r=S081YB&bzc=1&bzs=313831363438303733323a343a313a39333837363532&ur=vvbguagveegavl&urn=0&s=178213126435554f5ec5f47ae102d8792240c4edf0&bzp=0&bi=3987001148&filename=NeoSukiSU_v1.5.apk&x-mf-biz-cid=4bdc04cd-88e2-4fec-bc00-1b98fcced943-c4937c&ndcp=1&cache_type=1",
   "changelog": [
     "修复了已知问题",
     "新增清除缓存",
