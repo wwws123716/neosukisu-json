@@ -1,14 +1,22 @@
 {
   "title": "NeoSukiSU 版本日志",
-  {
-  "versionName": "1.0.4beta",
-  "date": "2026-6-15",
-  "changelog": [
-    "修复部分已知Bug",
-    "删除备用图标功能",
-  ]
-},
   "versions": [
+    {
+      "versionName": "1.5",
+      "date": "2026-06-15",
+      "changelog": [
+        "修复主要的Bug",
+        "完善软件内容"
+      ]
+    },
+    {
+      "versionName": "1.0.4beta",
+      "date": "2026-06-15",
+      "changelog": [
+        "修复部分已知Bug",
+        "删除备用图标功能"
+      ]
+    },
     {
       "versionName": "1.4beta",
       "date": "2026-06-14",
