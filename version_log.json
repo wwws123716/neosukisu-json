@@ -2,6 +2,13 @@
   "title": "NeoSukiSU 版本日志",
   "versions": [
     {
+      "versionName": "1.6",
+      "date": "2026-07-01",
+      "changelog": [
+        "修复了点击检测更新、日志等会出现多个弹窗的问题"
+      ]
+    },
+    {
       "versionName": "1.5",
       "date": "2026-06-15",
       "changelog": [
@@ -37,3 +44,4 @@
     }
   ]
 }
+
