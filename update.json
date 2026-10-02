@@ -1,6 +1,6 @@
 {
-  "version_code": 8000,
-  "version_name": "5.0",
-  "update_message": "1.新增高级弹窗效果\n2.测试\n3.测试版本仅供参考",
-  "download_url": "https://你的下载地址/app-release.apk"
+  "version_code":8000,
+  "version_name":"5.0",
+  "update_message":"1.新增高级弹窗效果\n2.测试\n3.测试版本仅供参考",
+  "download_url":"https://你的下载地址/app-release.apk"
 }
